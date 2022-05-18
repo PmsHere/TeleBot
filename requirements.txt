@@ -50,7 +50,6 @@ rextester_py
 search-engine-parser>=0.4.2
 selenium
 spamwatch
-speedtest-cli>=2.0.2
 sqlalchemy>=1.2
 telegraph
 telethon>=1.17
